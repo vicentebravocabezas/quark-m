@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Quark M
+Comment=Music Manager and Player for COSMIC
+Type=Application
+Icon=com.github.vicentebravocabezas.QuarkM
+Exec=quark-m %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
